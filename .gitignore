@@ -1,0 +1,18 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+Supprimerait libs/
+Supprimerait src/main/java/com/example/a2048/controllor/
+Supprimerait src/main/java/com/example/a2048/model/Direction.java
+Supprimerait src/main/java/com/example/a2048/view/
